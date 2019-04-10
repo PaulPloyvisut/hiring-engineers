@@ -4,7 +4,7 @@
 
 Author: Paul Ployvisut
 
-Position Target: Solutions Engineer
+
 
 
 <br>
@@ -794,15 +794,4 @@ For more details [here](https://docs.datadoghq.com/tracing/visualization/#servic
 <br>
 <br>
 
-## What else can Datadog be used for?
 
-With life always making us too busy even for each other, a phone application could be developed for monitoring on the go. Not really a new idea but with this is mind, an integration could be created for home applications and or systems. Condition alerts could be set up with maybe a Datadog Agent hub that device could be connected to.
-
-Maybe a bit too ambitious?
-
-<br>
-
-Please see the [scripts](https://github.com/PaulPloyvisut/hiring-engineers/tree/Paul_Ployvisut-Solutions_Engineer/scripts) directory for all files edited and used while creating this document.
-
-
-Thank you for reading if you are still here! <3
